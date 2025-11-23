@@ -272,9 +272,9 @@ The analysis demonstrates that while neural networks significantly outperform cl
 
 ## 👥 Authors
 
-**Allan Ilya**
-AI in Finance Capstone Project
-2025
+**Allan Ilyasov**
+**Giulio Bardelli**
+**Peter Roumeliotis**
 
 ---
 
