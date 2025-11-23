@@ -48,10 +48,7 @@ The analysis covers three stocks with different market characteristics:
 ```
 Stock-analytics/
 ├── main.ipynb                              # Main analysis notebook
-├── README.md                               # This file
-├── define_variables.py                     # [Deprecated]
-├── test_tf.py                              # TensorFlow test script
-└── 04-05 ARIMA_with_AlphaVantage_Vintage_API.ipynb  # Reference notebook
+└── README.md                               # This file
 ```
 
 ---
